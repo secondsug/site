@@ -1,0 +1,1 @@
+export { default as bodaImageString } from './bodaImageString.js';
