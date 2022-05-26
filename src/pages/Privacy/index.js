@@ -4,7 +4,7 @@ import Footer from '../../components/Footer';
 function Privacy() {
     return (
         <div>
-            <div className="container mx-auto px-4 ">
+            <div className="container mx-auto px-4 "  data-aos="fade-up" data-aos-duration="3000">
                 <h1 className="text-center"><b>PRIVACY POLICY</b></h1>
                 <h2 className="text-center"><b>SECONDS TECH LIMITED (“the Company”)</b></h2>
                 <h2 className="text-center"><b>Introduction and Agreement to terms</b></h2>
