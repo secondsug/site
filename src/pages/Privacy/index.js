@@ -330,8 +330,32 @@ function Privacy() {
             disclosure to the third party is reasonably required in the context of conducting the dispute resolution
             proceedings; and (ii) the third party agrees unconditionally in writing to be bound by the confidentiality
             obligation stipulated herein.
-
-
+            <br/>
+            <h2><b>8. Other Provisions</b></h2>
+            <h2><b>Claims of Copyright Infringement.</b></h2>
+            Claims of copyright infringement should be sent to the Company’s designated agent.
+            <h2><b>Notice.</b></h2>
+            The Company may give notice by means of a general notice on the Services, electronic mail to your email
+            address in your Account, or by written communication sent to your address as set forth in your Account. You
+            may give notice to the Company by written communication to the Company's address at P. O. BOX 74940
+            Clock-Tower, Kampala. (you can input email address as well)
+            <h2><b>General.</b></h2>
+            You may not assign or transfer these Terms in whole or in part without the Company’s prior written approval.
+            You give your approval to the Company for it to assign or transfer these Terms in whole or in part,
+            including to: (i) a subsidiary or affiliate; (ii) an acquirer of the Company’s equity, business or assets;
+            or (iii) a successor by merger. No joint venture, partnership, employment or agency relationship exists
+            between you, the Company or any Third Party Provider as a result of the contract between you and the Company
+            or use of the Services.
+            <h2><b>Severability </b></h2>
+            If any provision of these Terms is held to be illegal, invalid or unenforceable, in whole or in part, under
+            any law, such provision or part thereof shall to that extent be deemed not to form part of these Terms but
+            the legality, validity and enforceability of the other provisions in these Terms shall not be affected. In
+            that event, the parties shall replace the illegal, invalid or unenforceable provision or part thereof with a
+            provision or part thereof that is legal, valid and enforceable and that has, to the greatest extent
+            possible, a similar effect as the illegal, invalid or unenforceable provision or part thereof, given the
+            contents and purpose of these Terms. These Terms constitute the entire agreement and understanding of the
+            parties with respect to its subject matter and replaces and supersedes all prior or contemporaneous
+            agreements or undertakings regarding such subject matter.
         </div>
     )
 }
