@@ -2,7 +2,7 @@ import React from "react";
 
 function HeroCard() {
   return (
-    <div className="bg-black w-full flex-col  mx-6 my-8 px-11 py-16 lg:max-w-md md:max-w-md">
+    <div className="bg-black w-full flex-col  mx-6 my-8 px-11 py-16 lg:max-w-md md:max-w-md col-sm-12">
         {/* Card Title */}
       <div className="flex  ">
         <h1 className="text-white text-center text-2xl font-medium">

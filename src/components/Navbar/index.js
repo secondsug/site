@@ -14,7 +14,7 @@ function Navbar({match}) {
                             <div className="flex-shrink-0 space-x-7">
                                 <img
                                     className="h-8 w-8"
-                                    src="/docs/images/logo.svg"
+                                    src="./images/logo.png"
                                     alt="Seconds Logo"
                                 />
                             </div>
@@ -25,14 +25,14 @@ function Navbar({match}) {
                             <div className="hidden md:block space-x-1 ">
                                 <div className="ml-80 flex items-baseline space-x-4 ">
                                     <a
-                                        href="#"
+                                        href="/services"
                                         className=" hover:bg-gray-700 text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Services
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/about"
                                         className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         About
@@ -46,7 +46,7 @@ function Navbar({match}) {
                                     </a>
 
                                     <a
-                                        href="#"
+                                        href="/partners"
                                         className="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >
                                         Partner
